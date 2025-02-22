@@ -85,9 +85,8 @@ Techniques Used:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/rishikathakre/ml-projects.git
-
-cd ml-projects
+git clone https://github.com/rishikathakre/Machine-Learning-Projects.git
+cd Machine-Learning-Projects
 
 ### 2️⃣ Install Dependencies
 
